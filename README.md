@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Features
+
+- **Next.js 15** with App Router and Turbopack
+- **React 19** with TypeScript
+- **Tailwind CSS v4** for styling
+- **shadcn/ui** components
+- **Dark/Light mode** with next-themes
+- **Biome** for fast linting and formatting
+
 ## Getting Started
 
 First, run the development server:
